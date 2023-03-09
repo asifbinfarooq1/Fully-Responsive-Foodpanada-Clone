@@ -11,6 +11,4 @@
 
 - **Creating Fully Responsive Website**
 
-## Images
 
-<img src="./images/foodpanda-home.png" />
